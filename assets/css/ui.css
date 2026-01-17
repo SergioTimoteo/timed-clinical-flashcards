@@ -1,0 +1,11 @@
+.tcf-app {
+  max-width: 500px;
+  margin: auto;
+  font-family: system-ui;
+}
+.card {
+  background: #111;
+  color: #fff;
+  padding: 24px;
+  border-radius: 16px;
+}
